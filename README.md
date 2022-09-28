@@ -27,7 +27,7 @@
 <br>
 <br>
 
-### Languages and Tools:
+### Languages & Tools:
 
 <div style="display: flex; flex-direction: row;" align=left >
   <a href="https://www.w3.org/html/" target="_blank">
