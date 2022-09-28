@@ -16,7 +16,6 @@
 <br>
 <br>
 
-### LOADING... *Employed Software Engineer*
 
 </div>
 
