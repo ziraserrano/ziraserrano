@@ -13,12 +13,15 @@
     <img src="https://img.shields.io/badge/%E2%99%A1-%20twitter-%23d2d8ff"/>
   </a>
 
-<br>
-<br>
-
-
 </div>
 
+<br>
+<br>
+<br>
+
+### Projects & Contributions:
+- [HotSoup](https://github.com/HotSoupRepos) - app that searches for nearby soup kitchens!
+- [AngelHope](https://github.com/jasminepvo/angelhope) - click [here](https://angelhope.netlify.app/) for the live demo!
 
 
 <br>
