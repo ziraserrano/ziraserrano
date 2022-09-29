@@ -48,15 +48,10 @@
  <br>
 
  
- ### My GitHub Stats!
-
-
-
-![Zira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziraserrano&show_icons=true&theme=tokyonight)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziraserrano&layout=compact&theme=tokyonight)](https://github.com/ziraserrano/github-readme-stats)
-
-
+ ## My GitHub Stats
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=ziraserrano&show_icons=true&theme=tokyonight" alt="ziraserrano" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziraserrano&layout=compact&theme=tokyonight" alt="ziraserrano" />
+</div>
 
 
