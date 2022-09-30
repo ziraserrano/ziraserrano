@@ -20,8 +20,8 @@
 <br>
 
 ### Projects & Contributions:
-- [HotSoup](https://github.com/HotSoupRepos) - app that searches for nearby soup kitchens!
-- [AngelHope](https://github.com/jasminepvo/angelhope) - click [here](https://angelhope.netlify.app/) for the live demo!
+- [HotSoup](https://github.com/HotSoupRepos) - Open sourced free mobile app that helps those in need of a free meal by locating nearby soup kitchens and food pantries.
+- [AngelHope](https://github.com/jasminepvo/angelhope) - click [here](https://angelhope.netlify.app/) for the live demo! - Landing page to collect user interest metrics for AngelHope, a tech that allows nightlife clientele to report sexual harassment in real time to trained staff onsite.
 
 
 <br>
