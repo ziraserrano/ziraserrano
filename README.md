@@ -32,7 +32,7 @@
 ## *In Progress...*
 
 - [Tommy B's Library](https://github.com/ziraserrano/books-api) - Simple Web App created to search for books by subject using Open Library API.
-- [StarGazers](https://github.com/ziraserrano/stargazersAPOD) - Simple Web App created using NASA's Open API to show NASA's picture of the day!
+- [StarGazer's Society](https://github.com/ziraserrano/stargazersAPOD) - Simple Web App created using NASA's Open API to show NASA's picture of the day!
 
 
 
