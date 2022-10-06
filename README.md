@@ -1,7 +1,9 @@
 <div style="display: flex; flex-direction: row;" align=center >
 
+
 ![hello!](https://user-images.githubusercontent.com/62843819/192885578-70e2e3fb-d50c-45aa-ae47-cb1487870fbf.png)
 
+<br>
 
   <a href="https://ziraserrano.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/%E2%99%A1-%20%20portfolio-%23d2d8ff"/>
@@ -19,15 +21,25 @@
 <br>
 <br>
 
-### Projects & Contributions:
-- [HotSoup](https://github.com/HotSoupRepos) - Open sourced free mobile app that helps those in need of a free meal by locating nearby soup kitchens and food pantries.
+## Projects & Contributions:
+
 - [AngelHope](https://github.com/jasminepvo/angelhope) - click [here](https://angelhope.netlify.app/) for the live demo! - Landing page to collect user interest metrics for AngelHope, a tech that allows nightlife clientele to report sexual harassment in real time to trained staff onsite.
+- [HotSoup](https://github.com/HotSoupRepos) - Open sourced free mobile app that helps those in need of a free meal by locating nearby soup kitchens and food pantries.
+- [Studyboard](https://studyboard.kyle-christian.repl.co) - Created by developers for developers to log in and apply pomodoro technique using a stopwatch feature to track working minutes spent developing or improving. Once logged, all tracked minutes will be pulled from the database and displayed & ranked on a leaderboard.
+
+<br>
+
+## *In Progress...*
+
+- [Tommy B's Library](https://github.com/ziraserrano/books-api) - Simple Web App created to search for books by subject using Open Library API.
+- [StarGazers](https://github.com/ziraserrano/stargazersAPOD) - Simple Web App created using NASA's Open API to show NASA's picture of the day!
+
 
 
 <br>
-<br>
+<br> 
 
-### Languages & Tools:
+## Languages & Tools:
 
 <div style="display: flex; flex-direction: row;" align=left >
   <a href="https://www.w3.org/html/" target="_blank">
