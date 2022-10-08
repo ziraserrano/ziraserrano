@@ -55,6 +55,9 @@
    <a href="https://www.w3schools.com/react/" target="_blank">
     <img src="https://img.shields.io/static/v1?&style=flat&logo=react&logoColor=grey&labelColor=d2d8ff&label=&message=REACT&color=d2d8ff"/>
   </a>
+   <a href="https://www.w3schools.com/tailwind/" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=tailwindcss&logoColor=grey&labelColor=d2d8ff&label=&message=TAILWIND&color=d2d8ff"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?&style=flat&logo=git&logoColor=grey&labelColor=d2d8ff&label=&message=GIT&color=d2d8ff"/>
   </a>
