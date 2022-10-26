@@ -14,12 +14,17 @@
   <a href="https://twitter.com/zira_serrano" target="_blank">
     <img src="https://img.shields.io/badge/%E2%99%A1-%20twitter-%23d2d8ff"/>
   </a>
+  
+<br>
+<br>
+<br>
+
+![codewars](https://www.codewars.com/users/ziraserrano/badges/small)
 
 </div>
 
 <br>
-<br>
-<br>
+
 
 ## Projects & Contributions:
 
