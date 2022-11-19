@@ -5,9 +5,9 @@
 
 <br>
 
-  <a href="https://ziraserrano.netlify.app/" target="_blank">
+<!--  <a href="https://ziraserrano.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/%E2%99%A1-%20%20portfolio-%23d2d8ff"/>
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/zira-serrano-45451282/" target="_blank">
     <img src="https://img.shields.io/badge/%E2%99%A1-%20linkedin-%23d2d8ff"/>
   </a>
