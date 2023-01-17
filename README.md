@@ -26,6 +26,42 @@
 
 <br>
 
+## Languages & Tools:
+
+<div style="display: flex; flex-direction: row;" align=left >
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=HTML5&logoColor=grey&labelColor=d2d8ff&label=&message=HTML&color=d2d8ff"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=CSS3&logoColor=grey&labelColor=d2d8ff&label=&message=CSS&color=d2d8ff"/>
+  </a>
+  <a href="https://www.w3schools.com/javascript/" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=javascript&logoColor=grey&labelColor=d2d8ff&label=&message=JAVASCRIPT&color=d2d8ff"/>
+  </a>
+  <a href="https://nodejs.org/en/docs/" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=nodedotjs&logoColor=grey&labelColor=d2d8ff&label=&message=NODE&color=d2d8ff"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=express&logoColor=grey&labelColor=d2d8ff&label=&message=EXPRESS&color=d2d8ff"/>
+  </a>
+  <a href="https://www.mongodb.com/docs/" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=mongodb&logoColor=grey&labelColor=d2d8ff&label=&message=MONGODB&color=d2d8ff"/>
+  </a>
+   <a href="https://www.w3schools.com/react/" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=react&logoColor=grey&labelColor=d2d8ff&label=&message=REACT&color=d2d8ff"/>
+  </a>
+   <a href="https://www.w3schools.com/tailwind/" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=tailwindcss&logoColor=grey&labelColor=d2d8ff&label=&message=TAILWIND&color=d2d8ff"/>
+  </a>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=vite&logoColor=grey&labelColor=d2d8ff&label=&message=VITE&color=d2d8ff"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=git&logoColor=grey&labelColor=d2d8ff&label=&message=GIT&color=d2d8ff"/>
+  </a>
+ </div>
+ 
+<br>
 
 ## Projects & Contributions:
 
@@ -44,33 +80,6 @@
 
 
 <br>
-<br> 
-
-## Languages & Tools:
-
-<div style="display: flex; flex-direction: row;" align=left >
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://img.shields.io/static/v1?&style=flat&logo=HTML5&logoColor=grey&labelColor=d2d8ff&label=&message=HTML&color=d2d8ff"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/static/v1?&style=flat&logo=CSS3&logoColor=grey&labelColor=d2d8ff&label=&message=CSS&color=d2d8ff"/>
-  </a>
-  <a href="https://www.w3schools.com/javascript/" target="_blank">
-    <img src="https://img.shields.io/static/v1?&style=flat&logo=javascript&logoColor=grey&labelColor=d2d8ff&label=&message=JAVASCRIPT&color=d2d8ff"/>
-  </a>
-   <a href="https://www.w3schools.com/react/" target="_blank">
-    <img src="https://img.shields.io/static/v1?&style=flat&logo=react&logoColor=grey&labelColor=d2d8ff&label=&message=REACT&color=d2d8ff"/>
-  </a>
-   <a href="https://www.w3schools.com/tailwind/" target="_blank">
-    <img src="https://img.shields.io/static/v1?&style=flat&logo=tailwindcss&logoColor=grey&labelColor=d2d8ff&label=&message=TAILWIND&color=d2d8ff"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?&style=flat&logo=git&logoColor=grey&labelColor=d2d8ff&label=&message=GIT&color=d2d8ff"/>
-  </a>
- </div>
- 
- <br>
- <br>
 
  
  ## My GitHub Stats
