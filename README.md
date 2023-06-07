@@ -66,15 +66,13 @@
 ## Projects & Contributions:
 
 - [AngelHope](https://github.com/jasminepvo/angelhope) - click [here](https://angelhope.netlify.app/) to see it live! - Landing page to collect user interest metrics for AngelHope, a tech that allows nightlife clientele to report sexual harassment in real time to trained staff onsite.
-- [Tommy B's Library](https://github.com/ziraserrano/books-api) - Simple Web App created to search for books by subject using Open Library API.
 - [HotSoup](https://github.com/HotSoupRepos) - Open sourced free mobile app that helps those in need of a free meal by locating nearby soup kitchens and food pantries.
-- [Studyboard](https://github.com/kyle-christian/StudyBoard) - click [here](https://studyboard.kyle-christian.repl.co) to see it live! - Created by developers for developers to log in and apply pomodoro technique using a stopwatch feature to track working minutes spent developing or improving. Once logged, all tracked minutes will be pulled from the database and displayed & ranked on a leaderboard.
 
 <br>
 
 ## *In Progress...*
 
-- [StarGazer's Society](https://github.com/ziraserrano/stargazersAPOD) - Simple Web App created using NASA's Open API to show NASA's picture of the day!
+- [Bills Tracker] - CRUD App for users to track their bills where they are able to add, edit and delete.
 - [Secret Salary](https://github.com/ziraserrano/secretsalary) - Web App created to encourage salary transparency and make it more accessible!
 
 
