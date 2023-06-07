@@ -72,7 +72,7 @@
 
 ## *In Progress...*
 
-- [Bills Tracker] - CRUD App for users to track their bills where they are able to add, edit and delete.
+- [Bills Tracker](https://github.com/ziraserrano/bill-tracker) - CRUD App for users to track their bills where they are able to add, edit and delete.
 - [Secret Salary](https://github.com/ziraserrano/secretsalary) - Web App created to encourage salary transparency and make it more accessible!
 
 
