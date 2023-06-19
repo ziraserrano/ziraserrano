@@ -67,12 +67,12 @@
 
 - [AngelHope](https://github.com/jasminepvo/angelhope) - click [here](https://angelhope.netlify.app/) to see it live! - Landing page to collect user interest metrics for AngelHope, a tech that allows nightlife clientele to report sexual harassment in real time to trained staff onsite.
 - [HotSoup](https://github.com/HotSoupRepos) - Open sourced free mobile app that helps those in need of a free meal by locating nearby soup kitchens and food pantries.
-
+- [Bills Tracker](https://github.com/ziraserrano/bill-tracker) - click [here](https://uptight-pig-gilet.cyclic.app/) to see it live! - Simple CRUD App for users to track their bills where they are able to add, edit and delete.
+  
 <br>
 
 ## *In Progress...*
 
-- [Bills Tracker](https://github.com/ziraserrano/bill-tracker) - CRUD App for users to track their bills where they are able to add, edit and delete.
 - [Secret Salary](https://github.com/ziraserrano/secretsalary) - Web App created to encourage salary transparency and make it more accessible!
 
 
