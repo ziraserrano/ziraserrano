@@ -65,7 +65,7 @@
 
 ## Projects & Contributions:
 
-- [Barbies](https://gorgeous-fez-frog.cyclic.app/) - API that fetches information about Barbies from the 2023 Barbie The Movie!
+- [Barbies](https://github.com/ziraserrano/2023-barbieAPI) - click [here](https://gorgeous-fez-frog.cyclic.app/) to see it live! - API that fetches information about Barbies from the 2023 Barbie The Movie!
 - [Bills Tracker](https://github.com/ziraserrano/bill-tracker) - click [here](https://uptight-pig-gilet.cyclic.app/) to see it live! - Simple CRUD App for users to track their bills where they are able to add, edit and delete.
 - [AngelHope](https://github.com/jasminepvo/angelhope) - click [here](https://angelhope.netlify.app/) to see it live! - Landing page to collect user interest metrics for AngelHope, a tech that allows nightlife clientele to report sexual harassment in real time to trained staff onsite.
 - [HotSoup](https://github.com/HotSoupRepos) - Open-sourced free mobile app that helps those in need of a free meal by locating nearby soup kitchens and food pantries.
